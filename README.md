@@ -6,6 +6,7 @@ Bu proje, NYP 3. Ödev için hazırlanmış Java karakter sistemi örneğidir.
 - Lonca, Silah, Karakter, Savaşçı, Büyücü, Okçu ve Suikastçı sınıfları
 - Kapsülleme, HAS-A, kalıtım, final ve protected kullanımları
 - Ana senaryo `Main` sınıfında çalıştırılır
+- K değeri 27
 
 ## Çalıştırma
 ```bash
